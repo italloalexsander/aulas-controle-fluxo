@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5a8a161-36af-49d8-8b01-77eb5de544a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Condicional-Fluxo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula/dois/OperadoresLogicos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula/um/OperadoresRelacionais.java" afterDir="false" />
+    <list default="true" id="a5a8a161-36af-49d8-8b01-77eb5de544a7" name="Changes" comment="First Commit: Aula 1 e 2">
+      <change afterPath="$PROJECT_DIR$/src/aula/tres/ControleFluxo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +42,20 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.OperadoresLogicos">
+  <component name="RunManager" selected="Application.ControleFluxo">
+    <configuration name="ControleFluxo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula.tres.ControleFluxo" />
+      <module name="Java-Condicional-Fluxo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula.tres.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OperadoresLogicos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aula.dois.OperadoresLogicos" />
       <module name="Java-Condicional-Fluxo" />
@@ -80,6 +84,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ControleFluxo" />
         <item itemvalue="Application.OperadoresLogicos" />
         <item itemvalue="Application.OperadoresRelacionais" />
       </list>
@@ -94,6 +99,14 @@
       <option name="presentableId" value="Default" />
       <updated>1651195460389</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Commit: Aula 1 e 2">
+      <created>1651253450758</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651253450758</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,5 +119,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit: Aula 1 e 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit: Aula 1 e 2" />
   </component>
 </project>
